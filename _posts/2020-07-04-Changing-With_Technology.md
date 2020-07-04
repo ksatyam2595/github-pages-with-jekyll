@@ -1,3 +1,8 @@
+---
+title: "Changing With Technology"
+date: 2020-07-04
+---
+
 Over the years, technology has revolutionized our world and daily lives. Technology has created amazing tools and resources, putting useful information at our fingertips.
 
 Modern technology has paved the way for multi-functional devices like the smartwatch and the smartphone. Computers are increasingly faster, more portable, and higher-powered than ever before. With all of these revolutions, technology has also made our lives easier, faster, better, and more fun.
